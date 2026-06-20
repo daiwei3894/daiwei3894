@@ -1,6 +1,6 @@
 # Hi, I'm Wong Zhi Wei 👋
 
-### 🚀 Database Management & Software Engineer
+### 🚀Final Year Database Management Student
 I specialize in database management systems, distributed data structures, and full-stack web architectures.
 
 * 🎓 **Education:** Bachelor of Computer Science (Database Management) with Honours | First-Class Honours (CGPA: 3.77)
