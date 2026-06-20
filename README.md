@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Wong Zhi Wei 👋
 
-<!--
-**daiwei3894/daiwei3894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Engineer & Software Developer
+I specialize in database management systems, distributed data structures, and full-stack web architectures.
 
-Here are some ideas to get you started:
+* 🎓 **Education:** Bachelor of Computer Science (Database Management) with Honours | First-Class Honours (CGPA: 3.77)
+* 💼 **Credentials:** Oracle Database Foundations Certified Junior Associate
+* 🛠️ **Focus Areas:** Distributed Databases, Query Optimization, System Integration, Enterprise Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack & Tools
+
+* **Languages:** SQL, PHP, Java, JavaScript, HTML5/CSS3
+* **Environments & DBMS:** MySQL, PostgreSQL, MariaDB, Oracle DBMS, Linux, Windows Server
+* **Architecture:** Distributed Database Architecture, Relational Database Modeling
+
+---
+
+### 📁 Featured Projects
+* ⚡ [Electric Vehicle (EV) Management System](https://github.com/YOUR_USERNAME/EV-Management-System) - Full-stack tracking network utilizing optimized relational datasets.
