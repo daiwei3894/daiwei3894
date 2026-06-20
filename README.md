@@ -18,4 +18,4 @@ I specialize in database management systems, distributed data structures, and fu
 ---
 
 ### 📁 Featured Projects
-* ⚡ [Electric Vehicle (EV) Management System](https://github.com/YOUR_USERNAME/EV-Management-System) - Full-stack tracking network utilizing optimized relational datasets.
+* ⚡ [EV Charging Monitoring System](https://github.com/daiwei3894/EV-Charging-Monitoring-System) - A centralized, production-ready full-stack monitoring platform engineered to track live charging station workloads, aggregate real-time terminal telemetry metrics, and securely process session transaction logs.
